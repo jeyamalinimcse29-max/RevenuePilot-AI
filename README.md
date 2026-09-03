@@ -1,7 +1,7 @@
 # REVENUEPILOT AI 🚀
 
 > **Turn every transaction into your next growth opportunity.**  
-> Built for the **Razorpay AI Buildathon** — *Track 1: AI Growth & Agentic Commerce (Revenue Growth Agent)*
+> Built as a **Razorpay Internship Selection Project** — *Track 1: AI Growth & Agentic Commerce (Revenue Growth Agent)*
 
 ---
 
@@ -94,7 +94,7 @@ npx tsx test-e2e.ts
 
 ---
 
-## 🏆 Hackathon Judges Checklist
+## 🏆 Evaluator / Reviewer Checklist
 
 1. **"What revenue problem did the agent find?"** $\to$ High-intent abandoned checkouts (e.g. ₹4,999) and payment card declines (e.g. ₹7,499).
 2. **"Why did it choose this opportunity?"** $\to$ Transparent 0–100 score breakdown (+30 Cart Value, +25 VIP History, +20 Urgency, +20 Intent Stage).
